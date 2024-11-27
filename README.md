@@ -5,6 +5,9 @@ An experiment to get AppleTV to play Screen Saver videos I've selected instead o
 
 This is based off of the following Stackoverflow/Apple Support threads:
 
+- https://forums.developer.apple.com/forums/thread/25982
+- https://forums.developer.apple.com/forums/thread/25982
+
 ## Instructions
 
 Once you've got some sort of public GET endpoint that will serve a simple JSON response, utilize the template found at http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/entries.json to create your own set of videos that can be used as a screensaver. 
